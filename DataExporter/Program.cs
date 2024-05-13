@@ -22,7 +22,6 @@ namespace DataExporter
 
             app.UseAuthorization();
 
-
             app.MapControllers();
 
             app.Run();
